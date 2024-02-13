@@ -17,6 +17,7 @@ This app is build with the following library:
 - Postgre → gorm.io/driver/postgres
 
 # API
+Documentation: 
 1. User
    - Register
    - Login
