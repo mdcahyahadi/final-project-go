@@ -16,26 +16,5 @@ This app is build with the following library:
 - Godotenv → github.com/joho/godotenv
 - Postgre → gorm.io/driver/postgres
 
-# API
-Documentation: 
-1. User
-   - Register
-   - Login
-2. Photo
-   - GetAll
-   - GetOne
-   - CreatePhoto
-   - UpdatePhoto
-   - DeletePhoto
-3. Comment
-   - GetAll
-   - GetOne
-   - CreateComment
-   - UpdateComment
-   - DeleteComment
-4. Social Media
-   - GetAll
-   - GetOne
-   - CreateSocialMedia
-   - UpdateSocialMedia
-   - DeleteSocialMedia
+# API Documentation
+Please refer to this document: https://documenter.getpostman.com/view/26154910/2sA2r6YQR5
